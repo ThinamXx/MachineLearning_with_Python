@@ -7,8 +7,8 @@ In this repository, I have includes all basic and fundamentals implementations o
 - [Linear Models and Optimization](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/Linear%20Models%20and%20Optimization/Linear%20Models%20and%20Optimization%2001.ipynb)
 
 ### **Classifier Visualization**
-[Classifiers Visualization](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/ClassifierVisualization.ipynb)
-![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596283896/Cl_eekveh.png)
+- [Classifiers Visualization](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/ClassifierVisualization.ipynb)
+- ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596283896/Cl_eekveh.png)
 
 ### **Gradient Boosting Decision Trees**
 - Here, I tried to answer only one question: **Will performance of GBDT model drop dramatically if we remove the first tree?**
