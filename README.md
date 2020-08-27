@@ -11,6 +11,7 @@ In this repository, I have includes all basic and fundamentals implementations o
 - Unsupervised learning is a type of machine learning that looks for previously undetected patterns in a data set with no pre-existing labels and with a minimum of human supervision.
 - [Un-Supervised Learning](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/Unsupervised%20Learning.ipynb)
 
+
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596286128/Can_gjrqkn.png)
 
 ### **Linear Models and Optimization**
@@ -19,6 +20,7 @@ In this repository, I have includes all basic and fundamentals implementations o
 
 ### **Classifier Visualization**
 - [Classifiers Visualization](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/ClassifierVisualization.ipynb)
+
 
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596283896/Cl_eekveh.png)
 
