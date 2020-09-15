@@ -30,5 +30,3 @@ In this repository, I have includes all basic and fundamentals implementations o
 **Model Evaluation and Selection**
 - [Applied Machine Learning 01](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/Model%20Evaluation%20%26%20Selection.ipynb)
 - [Applied Machine Learning 02](https://github.com/ThinamXx/Machine-Learning-with-Python/blob/master/Model%20Evaluation%20and%20Selection%2001.ipynb)
-
-![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1596286454/He_jm1ptf.png)
